@@ -4,6 +4,9 @@ Online Pathological Laboratory Management System using PHP, Bootstrap and MYSQL 
 ## Note:
 Please unzip the zipped files before using
 
+- Admin name : admin
+- Password : admin123
+
 
 ### Screenshots : ADMIN
 
